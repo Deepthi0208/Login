@@ -1,0 +1,21 @@
+.Welcome{
+    display:flex;
+    flex-direction:coloum;
+    align-items:center;
+    justify-content:center;
+    height:100vh;
+    font-family:"inter";
+}
+.logout_button{
+    min-width:200px;
+    padding:17px 30px;
+    margin-top:40px;
+    background:light blue;
+    border:none;
+    color:black;
+    font-size:14px;
+    border-radius:3px;
+}
+.heading{
+    color:blue;
+}
